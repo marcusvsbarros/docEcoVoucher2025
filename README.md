@@ -9,17 +9,7 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
 > [!NOTE]
 > Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos no projeto.
 
-# Diagrama de Caso de Uso
-
-Inicialmente, foi elaborado o seguinte caso de uso.
-
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Caso%20de%20Uso%20EcoVoucher.jpg).
-
-# Diagrama de Classes
-
-Para melhor entendimento do funcionamento do site, foi elaborado o seguinte dagrama de classes.
-
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Claesses%20EcoVoucher.jpg).
+# Arquitetura
 
 <details>
    <summary>Diagrama de Caso de Uso</summary>
