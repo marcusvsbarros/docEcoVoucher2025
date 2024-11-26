@@ -47,7 +47,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 01 | 27/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Documenta%C3%A7%C3%A3o/readme.md) |
 | 02 | 10/06/2024 |  ✔️ Concluída    | [ver relatório]() |
 | 03 | 19/06/2024 |  ✔️ Concluída   | [ver relatório]() |
-| 04 | 15/10/2024 | ✔️ Concluída    | [ver relatório]() |
+| 04 | 15/10/2024 | ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint4.md) |
 | 05 | 28/11/2024 |  Em Andamento    | [ver relatório]() |
 | 06 | 02/12/2024 |  Em Andamento   | [ver relatório]() |
 
