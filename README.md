@@ -58,7 +58,7 @@ Confira a seguir uma demonstração das funcionalidades do site:
     </div>
 </details>
 
-### Entregas de Sprints
+## Sprints
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web e todos os microsserviços), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
@@ -68,23 +68,6 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 04 | 15/10/2024 | ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint4.md) |
 | 05 | 28/11/2024 |  Em Andamento    | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint5.md) |
 | 06 | 02/12/2024 |  Em Andamento   | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint6.md) |
-
-## Backlogs & User Stories
- 
-### Requisitos Funcionais    
-
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos.jpg)
-
-
-### Requisitos Não Funcionais
-
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Requisitos%20N%C3%A3o%20Funcionais.jpg)
-
-
-### User Stories
-
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/User%20Stories.jpg)
-
 
   
 → [Voltar ao topo](#topo)
@@ -100,7 +83,8 @@ Por conta da arquitetura orientada a microsserviços adotada neste projeto, houv
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
-<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> <img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" /> <img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  <img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C" alt="Java" /> <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br> <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
+<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
+<img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" /> <img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  <img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C" alt="Java" /> <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br> <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
 
 # Equipe
 
