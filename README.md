@@ -23,6 +23,18 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
         <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Claesses%20EcoVoucher.jpg">
     </div>
 </details>
+<details>
+   <summary>Requisitos Funcionais</summary>
+    <div align="center">
+        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos.jpg">
+    </div>
+</details>
+<details>
+   <summary>Requisitos Não Funcionais</summary>
+    <div align="center">
+        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Requisitos%20N%C3%A3o%20Funcionais.jpg">
+    </div>
+</details>
 
 
 ## Apresentação
