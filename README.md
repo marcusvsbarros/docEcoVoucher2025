@@ -9,7 +9,7 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
 > [!NOTE]
 > Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos no projeto.
 
-# Arquitetura
+## Arquitetura
 
 <details>
    <summary>Diagrama de Caso de Uso</summary>
@@ -33,6 +33,12 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
    <summary>Requisitos Não Funcionais</summary>
     <div align="center">
         <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Requisitos%20N%C3%A3o%20Funcionais.jpg">
+    </div>
+</details>
+<details>
+   <summary>user Stories</summary>
+    <div align="center">
+        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/User%20Stories.jpg">
     </div>
 </details>
 
