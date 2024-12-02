@@ -28,15 +28,12 @@ Seguindo o checklist abaixo para acompanhamento.
 <br>
 <br>
 Documentação Técnica
-A equipe de documentação realizou a análise do material técnico existente, identificando lacunas e melhorias nos conteúdos para padronização e alinhamento com os requisitos do projeto. Além disso, começou a desenvolver os documentos de suporte necessários para apresentações futuras e viabilização de novas entradas no sistema.
+A equipe de documentação está responsabilizada de finalizar a documentação presente no Readme do projeto, criação de banner para exposição no auditório e suporte final da apresentação para banca.
+O Banner abaixo estará em exposição no dia.
 <br>
-<br>
-Essa divisão estratégica garantiu o avanço paralelo em múltiplas frentes, mantendo a integração entre equipes e definição das metas para alcande do objetivo final.
-
-
 <div align="center">
     
-![Timeline](https://github.com/marcusvsbarros/readMeTest/blob/main/timeline.jpg)
+![CiCd](https://github.com/marcusvsbarros/readMeTest/blob/main/cicd.jpg)
 </div>
 
 <br>
