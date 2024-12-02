@@ -24,6 +24,7 @@ Para otimizar as competências dos integrantes, a equipe foi organizada em três
 <br>
 <br>
 Atividades por sprint:
+<br>
 Desenvolvimento
 Na primeira sprint, o foco da equipe de desenvolvimento foi a análise crítica do script atual do site, identificando possíveis melhorias e alinhando os objetivos do projeto. Paralelamente, foi iniciado um estudo de viabilidade técnica, avaliando a arquitetura do sistema, dependências e requisitos para implementação.
 <br>
