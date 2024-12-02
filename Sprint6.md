@@ -29,7 +29,7 @@ O Banner abaixo estará em exposição no dia.
 <br>
 <div align="center">
     
-![CiCd](https://github.com/marcusvsbarros/readMeTest/blob/main/cicd.jpg)
+![Banner](https://github.com/marcusvsbarros/readMeTest/blob/main/banner.jpeg)
 </div>
 
 <br>
