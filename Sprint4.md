@@ -36,7 +36,7 @@ Essa divisão estratégica garantiu o avanço paralelo em múltiplas frentes, ma
 
 <div align="center">
     
-![Backlog Sprint 1](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/DevOps%20Sprint%201.jpg)
+![Timeline](https://github.com/marcusvsbarros/readMeTest/blob/main/timeline.jpg)
 </div>
 
 
