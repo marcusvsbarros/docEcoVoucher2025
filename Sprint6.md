@@ -13,14 +13,17 @@ Finalizar todas as demandas já atribuídas anteriormente e definição da apres
 
 Atividades por sprint:
 <br>
-Desenvolvimento
-Finalizar todas as alterações na aplicação e acompanhamento dos testes, acompanhando para que a aplicação esteja estável e disponpivel para apresentação formal na Fatec Votorantim.
+Desenvolvimento: Finalizar todas as alterações na aplicação e acompanhamento dos testes, acompanhando para que a aplicação esteja estável e disponpivel para apresentação formal na Fatec Votorantim.
 <br>
 <br>
-Gestão de Repositório
-Finalizar as demandas direcionadas ao repositório com utilização das plataformas Github e Docker, evidenciando a criação das pipelines, conteiners, aplicando os conceitos de CI e CD e padronização do repositorio remoto.
+Gestão de Repositório: Finalizar as demandas direcionadas ao repositório com utilização das plataformas Github e Docker, evidenciando a criação das pipelines, conteiners, aplicando os conceitos de CI e CD e padronização do repositorio remoto.
 <br>
 Seguindo o checklist abaixo para acompanhamento.
+<div align="center">
+    
+![CiCd](https://github.com/marcusvsbarros/readMeTest/blob/main/cicd.jpg)
+</div>
+
 
 <br>
 <br>
