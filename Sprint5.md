@@ -41,7 +41,7 @@ Documentação Técnica
 <br>
 A equipe de documentação elaborou e manteve atualizado:
 <br>
-• PAdronização dos diagramas e inclusão na documentação.
+• Padronização dos diagramas e inclusão na documentação.
 <br>
 • Diagrama de arquitetura do sistema, para demonstração;
 <br>
