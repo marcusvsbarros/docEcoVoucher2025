@@ -46,16 +46,6 @@ A equipe de documentação elaborou e manteve atualizado:
 • Documentação das sprints e acompanhamento da evolução.
 <br>
 <br>
-Essa abordagem integrada proporcionou um avanço significativo nas entregas, promovendo um ambiente colaborativo entre as equipes e atingindo as metas estipuladas.
 
-<div align="center">
-
-
-</div>
 → [Página inicial](https://github.com/marcusvsbarros/readMeTest/blob/main/README.md)
-
-
-<br>
-<br>
-
 
