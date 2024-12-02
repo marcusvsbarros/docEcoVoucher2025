@@ -17,7 +17,9 @@ Esta etapa consiste em analisar a estrutura já desenvolvida do site e iniciar o
 Para otimizar as competências dos integrantes, a equipe foi organizada em três áreas principais:
 
 • Desenvolvimento (Backend e Frontend);
+<br>
 • Gestão de Repositório (Docker e GitHub);
+<br>
 • Documentação Técnica.
 <br>
 <br>
