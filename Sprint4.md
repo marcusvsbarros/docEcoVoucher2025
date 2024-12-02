@@ -2,12 +2,6 @@
 
 <h1 align="center">Sprint 4: 01/10/2024 a 15/10/2024</h1>
 
-<p align="center">
-    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
-    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#metricas">Métricas do time</a> 
-</p>
-
 Esta etapa consiste em analisar a estrutura já desenvolvida do site e iniciar o estudo de aplicação das novas tecnologias e metodologias ensinadas durante o semestre.
         
 
