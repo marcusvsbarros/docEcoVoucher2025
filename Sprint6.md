@@ -8,12 +8,8 @@ Esta etapa consiste em finalizar os testes e apresentação do conteúdo em feir
 <span id="metricas">
     
 ## Métricas do time
-Finalizar todas as demandas já atribuídas anteriormente e definição da apresentação final.
-
-
-Atividades por sprint:
 <br>
-Desenvolvimento: Finalizar todas as alterações na aplicação e acompanhamento dos testes, acompanhando para que a aplicação esteja estável e disponpivel para apresentação formal na Fatec Votorantim.
+Desenvolvimento: Finalizar todas as alterações na aplicação e acompanhamento dos testes, acompanhando para que a aplicação esteja estável e disponível para apresentação formal na Fatec Votorantim.
 <br>
 <br>
 Gestão de Repositório: Finalizar as demandas direcionadas ao repositório com utilização das plataformas Github e Docker, evidenciando a criação das pipelines, conteiners, aplicando os conceitos de CI e CD e padronização do repositorio remoto.
