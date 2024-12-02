@@ -19,31 +19,31 @@ Atividades por equipe:
 <br>
 Desenvolvimento: A equipe concentrou-se na implementação das funcionalidades principais do sistema:
 <br>
-Backend: Construção das APIs para integração com o banco de dados, garantindo performance e segurança no acesso aos dados.
+• Backend: Construção das APIs para integração com o banco de dados, garantindo performance e segurança no acesso aos dados.
 <br>
-Frontend: Desenvolvimento das interfaces principais, seguindo os padrões de design e garantindo a usabilidade do sistema.
+• Frontend: Desenvolvimento das interfaces principais, seguindo os padrões de design e garantindo a usabilidade do sistema.
 <br>
-Testes: Aplicação de testes unitários e de integração para assegurar a qualidade das funcionalidades entregues.
+• Testes: Aplicação de testes unitários e de integração para assegurar a qualidade das funcionalidades entregues.
 <br>
 <br>
 Gestão de Repositório
 <br>
 O time responsável pela gestão do repositório avançou com a containerização do ambiente usando Docker, facilitando a configuração e portabilidade do ambiente de desenvolvimento. Além disso:
 <br>
-Criou pipelines de CI/CD para automatizar o processo de deploy;
+• Criou pipelines de CI/CD para automatizar o processo de deploy;
 <br>
-Configurou hooks do Git para manter a padronização de commits e garantir o controle de qualidade.
+• Configurou hooks do Git para manter a padronização de commits e garantir o controle de qualidade.
 <br>
 <br>
 Documentação Técnica
 <br>
 A equipe de documentação elaborou e manteve atualizado:
 <br>
-Manuais técnicos para desenvolvedores e usuários finais;
+• Manuais técnicos para desenvolvedores e usuários finais;
 <br>
-Diagrama de arquitetura do sistema, detalhando a interação entre componentes;
+• Diagrama de arquitetura do sistema, detalhando a interação entre componentes;
 <br>
-Documentação dos endpoints da API para garantir que o desenvolvimento siga as especificações planejadas.
+• Documentação dos endpoints da API para garantir que o desenvolvimento siga as especificações planejadas.
 <br>
 <br>
 Essa abordagem integrada proporcionou um avanço significativo nas entregas, promovendo um ambiente colaborativo entre as equipes e atingindo as metas estipuladas.
