@@ -3,6 +3,8 @@
 Nesta etapa, o foco principal é o desenvolvimento ativo do software, aplicando as novas tecnologias e metodologias aprendidas durante o semestre, com o objetivo de criar um sistema robusto e funcional.
 
 <span id="metricas">
+    
+## Métricas do time
 Métricas do time
 Para maximizar o desempenho da equipe, as tarefas foram divididas em três áreas principais, conforme citado na sprint anterior:
 
