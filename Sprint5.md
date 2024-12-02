@@ -5,7 +5,6 @@ Nesta etapa, o foco principal é o desenvolvimento ativo do software, aplicando 
 <span id="metricas">
     
 ## Métricas do time
-Métricas do time
 Para maximizar o desempenho da equipe, as tarefas foram divididas em três áreas principais, conforme citado na sprint anterior:
 
 • Desenvolvimento (Backend e Frontend);
