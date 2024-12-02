@@ -6,10 +6,13 @@ Nesta etapa, o foco principal é o desenvolvimento ativo do software, aplicando 
     
 ## Métricas do time
 Para maximizar o desempenho da equipe, as tarefas foram divididas em três áreas principais, conforme citado na sprint anterior:
-
+<br>
 • Desenvolvimento (Backend e Frontend);
+<br>
 • Gestão de Repositório (Docker e GitHub);
+<br>
 • Documentação Técnica.
+<br>
 
 Atividades por sprint:
 Desenvolvimento
