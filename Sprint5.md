@@ -28,7 +28,7 @@ Desenvolvimento: A equipe concentrou-se na implementação das funcionalidades p
 <br>
 Gestão de Repositório
 <br>
-O time responsável pela gestão do repositório avançou com a containerização do ambiente usando Docker, facilitando a configuração e portabilidade do ambiente de desenvolvimento. Além disso:
+A equipe avançou com a containerização do ambiente usando Docker, facilitando a configuração e portabilidade do ambiente de desenvolvimento. Além disso:
 <br>
 • Criou pipelines de CI/CD para automatizar o processo de deploy;
 <br>
@@ -39,11 +39,11 @@ Documentação Técnica
 <br>
 A equipe de documentação elaborou e manteve atualizado:
 <br>
-• Manuais técnicos para desenvolvedores e usuários finais;
+• PAdronização dos diagramas e inclusão na documentação.
 <br>
-• Diagrama de arquitetura do sistema, detalhando a interação entre componentes;
+• Diagrama de arquitetura do sistema, para demonstração;
 <br>
-• Documentação dos endpoints da API para garantir que o desenvolvimento siga as especificações planejadas.
+• Documentação das sprints e acompanhamento da evolução.
 <br>
 <br>
 Essa abordagem integrada proporcionou um avanço significativo nas entregas, promovendo um ambiente colaborativo entre as equipes e atingindo as metas estipuladas.
