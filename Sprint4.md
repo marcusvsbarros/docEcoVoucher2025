@@ -31,7 +31,7 @@ Documentação Técnica
 A equipe de documentação realizou a análise do material técnico existente, identificando lacunas e melhorias nos conteúdos para padronização e alinhamento com os requisitos do projeto. Além disso, começou a desenvolver os documentos de suporte necessários para apresentações futuras e viabilização de novas entradas no sistema.
 <br>
 <br>
-Essa divisão estratégica garantiu o avanço paralelo em múltiplas frentes, mantendo a integração entre equipes para alcançar os objetivos da sprint de forma eficiente e colaborativa.
+Essa divisão estratégica garantiu o avanço paralelo em múltiplas frentes, mantendo a integração entre equipes e definição das metas para alcande do objetivo final.
 
 
 
