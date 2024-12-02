@@ -14,7 +14,9 @@ Para maximizar o desempenho da equipe, as tarefas foram divididas em três área
 • Documentação Técnica.
 <br>
 
-Atividades por sprint:
+Atividades por equipe:
+<br>
+<br>
 Desenvolvimento: A equipe concentrou-se na implementação das funcionalidades principais do sistema:
 <br>
 Backend: Construção das APIs para integração com o banco de dados, garantindo performance e segurança no acesso aos dados.
