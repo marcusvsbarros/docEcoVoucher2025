@@ -34,6 +34,12 @@ A equipe de documentação realizou a análise do material técnico existente, i
 Essa divisão estratégica garantiu o avanço paralelo em múltiplas frentes, mantendo a integração entre equipes e definição das metas para alcande do objetivo final.
 
 
+<div align="center">
+    
+![Backlog Sprint 1](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/DevOps%20Sprint%201.jpg)
+</div>
+
+
 
     
 
