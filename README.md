@@ -72,13 +72,6 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
   
 → [Voltar ao topo](#topo)
 
-<span id="prototipo">
-
-## Protótipo & Documentação
-Como parte do planejamento do projeto foram criados wireframes e mockups para idealização do layout, que, ao ser validado pelos usuários, foram aplicados em um protótipo construído em Angular, possibilitando a interação do usuário com a interface (vide [entrega da primeira sprint](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Documenta%C3%A7%C3%A3o/readme.md)).
-    
-Por conta da arquitetura orientada a microsserviços adotada neste projeto, houve a descentralização e isolamento de responsabilidades entre o front-end e o back-end, garantindo que as funcionalidades fossem integradas a partir do consumo das APIs disponíveis, foi praticada durante todo o desenvolvimento através de ferramentas como o Swagger ou readmes dos repositórios, mapeando todos os endpoints de cada API criada relacionada ao projeto, enquanto que para outras documentações do projeto como um todo, tais como os fluxos de dados, diagramas de classe e de uso, modelagem de banco de dados e arquiteturas foram condensadas na pasta documentação [link](https://github.com/Eng-FelipeA/EcoVoucher/tree/main/Documenta%C3%A7%C3%A3o).
-
 # Tecnologias Utilizadas
 
 <div align="center">
