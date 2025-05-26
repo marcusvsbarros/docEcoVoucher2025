@@ -22,7 +22,7 @@ Atividades por sprint:
 <br>
 
 ### Desenvolvimento Mobile
-A equipe de desenvolvimento iniciou os trabalhos com a definição da stack tecnológica para o aplicativo, optando pelo uso de **React Native** para garantir compatibilidade com Android e iOS. Também foram realizadas reuniões de levantamento de requisitos, identificação de funcionalidades prioritárias e elaboração dos primeiros protótipos de interface utilizando o SIGMA.
+A equipe de desenvolvimento iniciou os trabalhos com a definição da stack tecnológica para o aplicativo, optando pelo uso de **React Native** para garantir compatibilidade com Android e iOS. Também foram realizadas reuniões de levantamento de requisitos, identificação de funcionalidades prioritárias e elaboração dos primeiros protótipos de interface utilizando o FIGMA.
 
 <br>
 
