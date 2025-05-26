@@ -41,7 +41,7 @@ A integração entre as frentes de trabalho segue sendo um dos pilares do sucess
 
 <div align="center">
 
-![Timeline](https://github.com/marcusvsbarros/readMeTest/blob/main/timeline.jpg)
+![Timeline](https://github.com/marcusvsbarros/docEcoVoucher2025/blob/main/Timeline%20atualizada.png)
 </div>
 
 <br>
