@@ -1,7 +1,7 @@
 
 <span id="topo">
 
-<h1 align="center">Sprint 7: 01/03/2025 a 15/03/2025</h1>
+<h1 align="center">Sprint 7: 01/04/2025 a 30/04/2025</h1>
 
 Nesta etapa, iniciamos uma nova fase do projeto com foco no desenvolvimento de um **aplicativo mobile**. A proposta é adaptar as funcionalidades principais do sistema web já desenvolvido para uma versão responsiva, moderna e acessível em dispositivos móveis, utilizando tecnologias estudadas ao longo do semestre.
 
