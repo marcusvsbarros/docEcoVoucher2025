@@ -12,9 +12,9 @@ Mantendo a organização estratégica da equipe, as responsabilidades foram nova
 
 • Desenvolvimento Mobile (Frontend e Backend);
 <br>
-• Gestão de Repositório e Integrações (CI/CD, Docker e GitHub);
+• Gestão de Repositório e Computação em Nuvem(AWS);
 <br>
-• Documentação Técnica e Funcional.
+• Documentação e Conceitos Gerais de Segurança da Informação;
 <br>
 <br>
 
@@ -22,17 +22,19 @@ Atividades por sprint:
 <br>
 
 ### Desenvolvimento Mobile
-A equipe de desenvolvimento iniciou os trabalhos com a definição da stack tecnológica para o aplicativo, optando pelo uso de **React Native** para garantir compatibilidade com Android e iOS. Também foram realizadas reuniões de levantamento de requisitos, identificação de funcionalidades prioritárias e elaboração dos primeiros protótipos de interface utilizando ferramentas de design responsivo.
+A equipe de desenvolvimento iniciou os trabalhos com a definição da stack tecnológica para o aplicativo, optando pelo uso de **React Native** para garantir compatibilidade com Android e iOS. Também foram realizadas reuniões de levantamento de requisitos, identificação de funcionalidades prioritárias e elaboração dos primeiros protótipos de interface utilizando o SIGMA.
 
 <br>
 
-### Gestão de Repositório e Integrações
-Com a adição do app ao ecossistema do projeto, a equipe de repositório adaptou os processos de CI/CD para contemplar builds mobile. Também foram configurados novos containers no Docker para testes em emuladores e, quando necessário, integração com serviços como Firebase e bibliotecas de autenticação.
+### Gestão de Repositório e Computação em Nuvem(AWS)
+Com a adição do app ao ecossistema do projeto, a equipe responsável pela gestão do repositório concentrou-se na organização e manutenção dos repositórios no GitHub, estruturando branches de desenvolvimento, testes e produção de forma clara e padronizada. Também foram definidos processos de revisões de código para garantir a integridade e a colaboração eficiente entre os membros da equipe.
+
+Paralelamente, foi iniciado um estudo aprofundado para a futura hospedagem da aplicação na AWS (Amazon Web Services). Nesta etapa, o foco foi compreender a estrutura da plataforma, avaliar os serviços mais adequados para a arquitetura do sistema (como EC2, S3, Bucket e Security Group), e mapear os requisitos técnicos e operacionais necessários para a migração e escalabilidade do projeto em nuvem.
 
 <br>
 
 ### Documentação Técnica e Funcional
-A equipe de documentação atualizou os materiais existentes para incluir as novas decisões arquiteturais, além de iniciar a elaboração de manuais de uso e fluxos de navegação para o aplicativo. Também foi iniciado um log de versões específicas para a plataforma mobile, visando manter um histórico claro das atualizações realizadas.
+A equipe de Documentação Técnica revisou os materiais já existentes e atualizou as informações conforme as novas definições do projeto. Também deu início à criação de diagramas e registros que ajudam a representar a estrutura da aplicação, suas funcionalidades e o fluxo de desenvolvimento, facilitando o entendimento do sistema como um todo para os integrantes da equipe e para futuras apresentações do projeto.
 
 <br>
 <br>
