@@ -67,7 +67,10 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 03 | 19/06/2024 |  ✔️ Concluída   | [ver relatório](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Documenta%C3%A7%C3%A3o/sprint3.md) |
 | 04 | 15/10/2024 | ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint4.md) |
 | 05 | 28/11/2024 |  ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint5.md) |
-| 06 | 02/12/2024 |  Em Andamento   | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint6.md) |
+| 06 | 02/12/2024 |  ✔️ Concluída   | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint6.md) |
+| 07 | 30/04/2025 |  ✔️ Concluída   | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint7.md) |
+| 08 | 30/05/2025 |  Em Andamento   | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint8.md) |
+| 09 | 26/06/2025 |  Futura   | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint9.md) |
 
   
 → [Voltar ao topo](#topo)
@@ -86,19 +89,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   Scrum Master    | Felipe Afonso da Silva Vieira                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-afonso-da-silva-vieira-b32860105/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eng-FelipeA)   |
-|   Scrum Master    | Guilherme Marengo                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marengo/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eng-FelipeA)   |
 |   Developer    | João Pedro               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro01) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-pedro01)        |
 |   Developer    | Letícia Pinheiro                   |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-pinheiro-946733308) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leticiapinheiro1   )        |
 |   Product Owner    | Marcus Vinicyus Souza Barros                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-barros-055a9a8b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcusvsbarros)   |
 | Product Owner  | Publio Moreira Gomes Ferreira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/publio-gomes-488b2a27/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/publiogomes)     |
-
-
-
-
-
-
-
-                    
-          
-          
-          
