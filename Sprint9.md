@@ -18,12 +18,9 @@ A Sprint 9 marcou a etapa final de desenvolvimento do projeto **Ecovoucher**, co
 
 ## 🔧 Desenvolvimento Mobile
 
-- Finalização das interfaces do app:
-  - Tela de perfil e configurações
-  - Tela de envio de comprovante de reciclagem (upload de imagem)
-  - Tela de parceiros e utilização de cashback
-- Ajustes de usabilidade e responsividade
-- Aplicação da lógica completa de autenticação, requisições e estados
+- Finalização das interfaces do app.
+- Ajustes de usabilidade e responsividade.
+- Aplicação da lógica completa de autenticação, requisições e estados.
 
 ---
 
@@ -35,14 +32,14 @@ Após as análises da sprint anterior, foram definidos e aplicados os seguintes 
 |------------------|--------------------------------------|
 | Frontend (React) | Amazon S3 + CloudFront              |
 | Backend (Node.js)| Amazon EC2 + Security Groups        |
-| Banco de Dados   | MongoDB Atlas com integração via VPC|
-| Upload de Imagens| Amazon S3 Bucket com políticas IAM  |
+| Banco de Dados   | MongoDB |
+| Upload de Imagens| Amazon S3 Bucket  |
 | Monitoramento    | Amazon CloudWatch                   |
 
-- Criação e configuração da **EC2 Instance** com ambiente Node.js e PM2 para rodar o backend em produção
+- Criação e configuração da **EC2 Instance** com ambiente Node.js para rodar o backend em produção
 - Deploy do frontend com **build React** no **S3** e distribuição via **CloudFront**
-- Integração segura entre backend e banco via string de conexão protegida por variáveis de ambiente (.env)
-- Configuração de políticas de segurança (IAM, Security Groups e controle de acessos)
+- Integração segura entre backend e banco.
+- Configuração de políticas de segurança (Security Groups e controle de acessos)
 
 ---
 
@@ -54,27 +51,18 @@ A integração entre as três camadas (Mobile → Backend → Banco de Dados) fo
 - Registro de materiais recicláveis
 - Atualização de saldo e cashback por usuário
 - Listagem e visualização de parceiros
-- Upload de imagem com retorno via URL do S3
 
 ---
 
 ## 📑 Documentação e Apresentação
 
-- Registro completo da arquitetura do projeto na Wiki
+- Registro completo da arquitetura do projeto no GitHub.
 - Diagrama de arquitetura atualizado com serviços da AWS
-- Geração de manual de uso técnico e funcional do sistema
 - Preparação da apresentação final com roteiro demonstrativo:
   - Visão geral do projeto
-  - Fluxo completo do usuário
+  - Fluxo completo.
   - Estrutura na nuvem
   - Demonstração do app em tempo real
-
----
-
-<div align="center">
-
-![Arquitetura AWS](https://github.com/marcusvsbarros/docEcoVoucher2025/blob/main/ArquiteturaAWS.png)
-</div>
 
 ---
 
