@@ -20,34 +20,28 @@ Nesta sprint, avançamos significativamente na construção do **aplicativo mobi
 ### 📱 Desenvolvimento Mobile
 
 - Criação das telas iniciais do app:
-  - Tela de Login e Registro
-  - Tela de Dashboard com saldo e histórico
-  - Tela de Pontos de Coleta
 - Implementação das rotas utilizando React Navigation
-- Início da aplicação da lógica de autenticação com Firebase Auth
 
 ---
 
 ### ☁️ Infraestrutura e Integração
 
-- Criação do ambiente de testes local via Expo
+- Estudo teórico e prático da plataforma AWS para integração futura do projeto.
 - Validação do uso de serviços da AWS para upload de imagens (simulação com S3)
-- Organização dos repositórios GitHub com novas branches para `mobile-dev` e `mobile-ui`
+- Organização dos repositórios GitHub.
 
 ---
 
 ### 📝 Documentação e Requisitos
 
-- Análise e refinamento dos requisitos funcionais e não funcionais
-- Atualização dos diagramas de fluxo (login, navegação e resgate de cashback)
-- Inclusão das novas telas no Figma com link de visualização para a equipe
-- Registro de decisões técnicas no Wiki do repositório
+- Análise e refinamento dos requisitos funcionais e não funcionais seguindo as novas diretrizes.
+- Inclusão das novas telas no Figma.
 
 ---
 
 ## 👨‍🏫 Preparação para Apresentação (30/05)
 
-- Preparação de uma versão estável para demonstração no dia 30
+- Preparação de uma versão estável para demonstração.
 - Elaboração de roteiro de apresentação destacando:
   - Proposta do Ecovoucher
   - Arquitetura técnica
@@ -59,13 +53,6 @@ Nesta sprint, avançamos significativamente na construção do **aplicativo mobi
 ## 🧩 Integração e Colaboração
 
 A integração entre desenvolvimento, infraestrutura e documentação foi fundamental para a evolução consistente do app. O time manteve reuniões semanais para validação das entregas e alinhamento das metas de curto prazo.
-
----
-
-<div align="center">
-
-![Wireframe App](https://github.com/marcusvsbarros/docEcoVoucher2025/blob/main/WireframeMobile.png)
-</div>
 
 ---
 
