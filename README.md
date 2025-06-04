@@ -63,8 +63,8 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 01 | 27/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/docEcoVoucher2025/blob/main/Sprint1.md) |
-| 02 | 10/06/2024 |  ✔️ Concluída    | [ver relatório](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Documenta%C3%A7%C3%A3o/sprint2.md) |
-| 03 | 19/06/2024 |  ✔️ Concluída   | [ver relatório](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Documenta%C3%A7%C3%A3o/sprint3.md) |
+| 02 | 10/06/2024 |  ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/docEcoVoucher2025/blob/main/Sprint2.md) |
+| 03 | 19/06/2024 |  ✔️ Concluída   | [ver relatório](https://github.com/marcusvsbarros/docEcoVoucher2025/blob/main/Sprint3.md) |
 | 04 | 15/10/2024 | ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint4.md) |
 | 05 | 28/11/2024 |  ✔️ Concluída    | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint5.md) |
 | 06 | 02/12/2024 |  ✔️ Concluída   | [ver relatório](https://github.com/marcusvsbarros/readMeTest/blob/main/Sprint6.md) |
